@@ -44,8 +44,8 @@ streamlit run app.py
 - The app will open automatically in your browser.
 
 ## 📸 Screenshot
-* ![Home Page](images\image.png)
-* ![After taking test](images\image-1.png)
+* ![Home Page](images/image.png)
+* ![After taking test](images/image-1.png)
 
 ## 🔮 Future Improvements
 
